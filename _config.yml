@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anne Drew Hu"
+title                    : "Amber Hu"
 title_separator          : "-"
-name                     : &name "Anne Drew Hu"
+name                     : &name "Amber Hu"
 description              : &description "PhD Candidate at MSU Ed Psych & Ed Tech"
-url                      : https://annedrewhu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amberjhu.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "annedrewhu.github.io"
+repository               : "amberjhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "annedrewhu"
+  github           : "amberjhu"
   google_plus      :
   keybase          :
   instagram        :
