@@ -20,7 +20,7 @@ redirect_from:
 
 # Education
 
-* Ph.D. in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) @ Michigan State University, 2025 (expected)
+* Ph.D. in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) @ Michigan State University, 2026 (expected)
 * B.A. in [Education, Communities, and Organizations](https://education.uw.edu/programs/undergraduate/eco) @ University of Washington, Seattle, 2020
 * B.S. in [Computer Science](https://www.cs.washington.edu/academics/ugrad) @ University of Washington, Seattle, 2020
 
@@ -64,9 +64,9 @@ redirect_from:
 # Service
 * PhD practicum committee (student member)
   * [Mike Frazier](https://www.linkedin.com/in/mikefraziered) (2023-24)
-  * [Jenn Sutcliffe](http://www.cgreenhow.org/research-team/) (2024-)
+  * [Jenn Sutcliffe](http://www.cgreenhow.org/research-team/) (2024-2025)
   * [Aisel (Ice) Akhmedova](http://www.cgreenhow.org/research-team/) (2024-)
-* [JET Lab](https://msujet.org/) meeting leader (2023-)
+* [JET Lab](https://msujet.org/) meeting leader (2023-2024)
   * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests.
 * MSU Ignite speaker selection committee (2024)
   * Reviewed candidate talks for a general audience research presentation series, and coached the accepted presenters.
