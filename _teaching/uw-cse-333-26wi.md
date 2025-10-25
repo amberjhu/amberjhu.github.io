@@ -8,3 +8,5 @@ location: "Seattle, WA"
 link: "https://courses.cs.washington.edu/courses/cse333/26wi/"
 academic_term: "26wi"
 ---
+
+I co-taught this class with Justin Hsia
