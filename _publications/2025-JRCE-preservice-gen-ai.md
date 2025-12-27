@@ -1,9 +1,9 @@
 ---
-title: "Integrating Generative AI into Teacher Education: Insights from Pre-service Teachers’ Experiences, Attitudes, and Design Challenges (in press)"
+title: "Integrating Generative AI into Teacher Education: Insights from Pre-service Teachers’ Experiences, Attitudes, and Design Challenges"
 collection: publications
-date: 2025-12-28
+date: 2025-12-13
 venue: "Journal of Research in Childhood Education"
-paperurl: 
-citation: "Yadav, A., Lachney, M., <b><u>Hu, A. D.</u></b>, Tavernier, L. (in press) Integrating Generative AI into Teacher Education: Insights from Pre-service Teachers’ Experiences, Attitudes, and Design Challenges. <i>Journal of Research in Childhood Education</i>"
+paperurl: https://www.tandfonline.com/doi/full/10.1080/02568543.2025.2581712
+citation: "Yadav, A., Lachney, M., <b><u>Hu, A. D.</u></b>, Tavernier, L. (2025) Integrating Generative AI into Teacher Education: Insights from Pre-service Teachers’ Experiences, Attitudes, and Design Challenges. <i>Journal of Research in Childhood Education</i>"
 excerpt: "This study aims to understand the perceptions, attitudes, and preparedness of pre-service teachers towards the use of generative AI technologies in educational settings. This research investigates how future educators view the potential benefits, challenges, and ethical considerations associated with AI-driven tools in their teaching practice. The study employs a mixed-methods approach, combining semi-structured interviews, attitudes surveys,  and video recordings of lesson design challenges from pre-service teachers enrolled in a teacher preparation program at a large public midwestern university in the US. Data is collected through detailed interviews and thematic analysis is conducted to identify common themes and insights. Additionally, surveys were administered to capture their general perspective to incorporate AI in their future classrooms. And, analysis of video logs from the pre-service teachers’ AI assisted lesson design provides insights into their skill levels and creativity with generative AI tools. The findings aim to inform teacher education programs and policymakers on how to better prepare educators for the evolving landscape of AI in education."
 ---
