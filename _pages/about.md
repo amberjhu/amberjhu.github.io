@@ -18,6 +18,9 @@ I am on the job market! I'm currently a Lecturer at the University of Washington
 ### Announcements
 
 {: .notice--info}
+I have accepted a position as a Visiting Teaching Assistant Professor at [University of Denver's Computer Science department](https://ritchieschool.du.edu/computer-science)! In addition to teaching, I will be collaborating with old friends from CSEd research at UW: [Benji Xie](https://www.benjixie.com/) and [Al Oleson](https://alannaholeson.com/)
+
+{: .notice--info}
 Our work on epistemic tensions in integrating computational thinking into humanities was [published in the journal Computer Science Education](https://doi.org/10.1080/08993408.2024.2380163)!
 
 {: .notice--info}
