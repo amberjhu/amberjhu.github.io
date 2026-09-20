@@ -6,6 +6,8 @@ venue: "University of Denver (DU)"
 date: 2026-09-08
 location: "Denver"
 academic_term: "26au"
+link:
+course_overview: true
 ---
 
 Discussion-based course that surveys a variety of topics in computing including data representation, ethics, HCI, and the current
