@@ -7,3 +7,6 @@ date: 2026-09-08
 location: "Denver"
 academic_term: "26au"
 ---
+
+Discussion-based course that surveys a variety of topics in computing including data representation, ethics, HCI, and the current
+landscape of computing careers.
