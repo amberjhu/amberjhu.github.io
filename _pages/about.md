@@ -13,7 +13,7 @@ I study computing education from a critical perspective!
 
 I'm an ABD PhD candidate advised by [Aman Yadav](https://www.amanyadav.org/) and a member of the [Justice, Education, and Technology (JET) Lab](https://msujet.org/) in MSU's [Educational Psychology & Educational Technology (EPET)](https://education.msu.edu/cepse/epet/) program.
 
-I am on the job market! I'm currently a Lecturer at the University of Washington's Paul G. Allen School for Computer Science & Engineering.
+I am on the job market! I'm currently a Visiting Teaching Assistant Professor at University of Denver (DU) Computer Science.
 
 ### Announcements
 
