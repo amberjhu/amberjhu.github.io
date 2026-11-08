@@ -1,5 +1,5 @@
 ---
-title: "COMP 1201"
+title: "COMP 1201: Introduction to Computer Science"
 collection: teaching
 type: 'Visiting Teaching Assistant Professor'
 venue: "University of Denver (DU)"

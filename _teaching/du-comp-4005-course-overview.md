@@ -1,5 +1,5 @@
 ---
-title: "COMP 4005: Foundations of Python Porgramming"
+title: "COMP 4005: Foundations of Python Programming"
 collection: teaching
 type: "Visiting Teaching Assistant Professor"
 venue: "University of Denver (DU)"
