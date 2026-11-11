@@ -3,7 +3,7 @@ title: "COMP 4005: Foundations of Python Programming"
 collection: teaching
 type: "Visiting Teaching Assistant Professor"
 venue: "University of Denver (DU)"
-date: 2026-09-01
+date: 2026-09-08
 location: "Denver, CO"
 course_overview: true
 ---
